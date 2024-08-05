@@ -103,36 +103,35 @@ To get started with the Food Delivery System, follow these steps:
 ## Directory Structure <a name="directory-structure"></a>
 
 ```text
-FOOD_DELIVERY_SYSTEM/
-├── Food-Delivery-System/
-│   ├── __pycache__/
-│   ├── lib/
-│   ├── reports/
-│   │   ├── Databases_Group_A3.pdf
-│   │   ├── Databases_Group_A4.pdf
-│   ├── static/
-│   │   ├── Assets/
-│   │   ├── cuisines/
-│   │   ├── Images/
-│   │   ├── CSS/
-│   │   │   ├── aboutus.css
-│   │   │   ├── customer.css
-│   │   │   ├── header.css
-│   │   │   ├── home.css
-│   │   │   ├── logsign.css
-│   │   │   ├── restaurantdetails.css
-│   │   │   ├── signup.css
-│   │   │   ├── userdetails.css
-│   ├── templates/
-│   │   ├── customers/
-│   │   ├── delivery/
-│   │   ├── restaurants/
-│   │   ├── aboutus.html
-│   │   ├── google_su.html
-│   │   ├── googlehome.html
-│   │   ├── home.html
-│   │   ├── login.html
-│   │   ├── signup.html
+Food-Delivery-System/
+├── __pycache__/
+├── lib/
+├── reports/
+│   ├── Databases_Group_A3.pdf
+│   ├── Databases_Group_A4.pdf
+├── static/
+│   ├── Assets/
+│   ├── cuisines/
+│   ├── Images/
+│   ├── CSS/
+│   │   ├── aboutus.css
+│   │   ├── customer.css
+│   │   ├── header.css
+│   │   ├── home.css
+│   │   ├── logsign.css
+│   │   ├── restaurantdetails.css
+│   │   ├── signup.css
+│   │   ├── userdetails.css
+├── templates/
+│   ├── customers/
+│   ├── delivery/
+│   ├── restaurants/
+│   ├── aboutus.html
+│   ├── google_su.html
+│   ├── googlehome.html
+│   ├── home.html
+│   ├── login.html
+│   ├── signup.html
 ├── .gitignore
 ├── app.py
 ├── app2.py
